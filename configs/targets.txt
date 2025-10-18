@@ -11,3 +11,4 @@ Note compliance reminders
 Draft liquidity plan
 Note currency exposure
 Review logo sketches
+Separate presentation and container logic in pages
